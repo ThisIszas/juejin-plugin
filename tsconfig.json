@@ -26,5 +26,5 @@
     "src/**/*.vue",
     "src/**/*.less",
     "*/*.vue"
-  ]
+, "src/pages/option/index.js"  ]
 }

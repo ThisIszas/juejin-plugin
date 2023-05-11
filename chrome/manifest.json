@@ -49,5 +49,6 @@
 				"path": "declarative_net_request_rule.json"
 			}
 		]
-	}
+	},
+  	"options_page": "option.html"
 }
